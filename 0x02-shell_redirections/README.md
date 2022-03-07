@@ -1,1 +1,1 @@
-<h2>Shell - Input/Output Redirections</h2>
+Tasks about input and output redirections
