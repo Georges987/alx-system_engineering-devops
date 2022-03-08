@@ -1,1 +1,1 @@
-<h2>Variables and Expansion - Project</h2>
+This is readme about shell variables
